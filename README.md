@@ -2,8 +2,8 @@
 A custom convolutional architecture which is capable of classifying skin lesions as benign or cancerous, with a test accuracy of 83% when the architecture is used in conjunction with a transfer learning model.
 
 ## Skin Cancer Classification Model
-Ryan Benner
-11/11/24
+- Ryan Benner
+- 11/11/24
 
 ## Introduction
 
